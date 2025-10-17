@@ -1,6 +1,6 @@
 # ReconForge - Advanced Bug Hunting Toolkit
 
-![ReconForge Logo](<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/90b47160-740e-4fd0-adac-ad430724c964" />)
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/90b47160-740e-4fd0-adac-ad430724c964" />
 
 ## 🕷️ About ReconForge
 
