@@ -96,7 +96,7 @@ If you find ReconForge useful, please consider:
 
 ## 📞 Contact & Support
 
-- **Security Issues**: security@reconforge.vgrow.tech
+- **Security Issues**: letchupkt.dev@gmail.com
 - **General Contact**: https://github.com/letchupkt
 - **Bug Reports**: Use GitHub Issues
 
